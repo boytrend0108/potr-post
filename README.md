@@ -10,7 +10,7 @@ HTML, SCSS, and little JavaScript.
 
 ## Demo
 
-- [Link to the preview](https://github.com/boytrend0108/potr-post)
+- [Link to the preview](https://boytrend0108.github.io/potr-post/)
 
 - [Link to the mockup](https://www.figma.com/design/50zgLU65Mcd3MisFHMfLfx/POTR-POTS_FE-students?node-id=1760-281&t=d0Sb1nrWRKaHUWrX-0)
 
