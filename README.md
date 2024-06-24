@@ -6,7 +6,7 @@ This repository contains the source code for my personal portfolio website
 
 HTML, SCSS, and little JavaScript.
 
-![App Screenshot]()
+![App Screenshot](https://github.com/boytrend0108/potr-post/blob/master/Screenshot_1.png?raw=true)
 
 ## Demo
 
