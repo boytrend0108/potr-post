@@ -1,0 +1,13 @@
+.container {
+  width: 100%;
+  padding-inline: 135px;
+  box-sizing: border-box;
+
+  @include on-tablet {
+    padding-inline: 34px;
+  }
+
+  @include on-mobile {
+    padding-inline: 30px;
+  }
+}
