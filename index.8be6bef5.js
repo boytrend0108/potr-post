@@ -1,0 +1,2 @@
+const e=document.querySelectorAll(".materials__item-wr"),t=document.querySelector(".materials__content"),a=document.querySelectorAll(".materials__icon");t.addEventListener("click",function({target:t}){e.forEach(e=>{e.style.opacity=0}),a.forEach(e=>{e.classList.remove("materials__icon--active")}),t.classList.contains("materials__icon")&&(t.nextElementSibling.style.opacity=1,t.classList.add("materials__icon--active"))});
+//# sourceMappingURL=index.8be6bef5.js.map

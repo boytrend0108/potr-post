@@ -1,0 +1,2 @@
+var t,e,a;t=document.querySelectorAll(".materials__item-wr"),e=document.querySelector(".materials__content"),a=document.querySelectorAll(".materials__icon"),e.addEventListener("click",function(e){var c=e.target;t.forEach(function(t){t.style.opacity=0}),a.forEach(function(t){t.classList.remove("materials__icon--active")}),c.classList.contains("materials__icon")&&(c.nextElementSibling.style.opacity=1,c.classList.add("materials__icon--active"))});
+//# sourceMappingURL=index.8d7404e7.js.map
